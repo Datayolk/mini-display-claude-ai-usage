@@ -1,6 +1,6 @@
 # Mini Display AI Usage (Claude)
 
-![Preview](usage.png)
+![Preview](MiniDisplay-ClaudeUsage.png)
 
 แสดง **โควตาการใช้งาน Claude Code** (หน้าต่าง 5 ชั่วโมง และ 7 วัน) บนจอ **Mini Display (Smart Clock Pro Ultra / GeekMagic Ultra)** ขนาด 240×240
 โปรแกรมนี้จะอ่านเปอร์เซ็นต์ที่ใช้ไปจากบัญชี Claude Code ของคุณ แล้วทำเป็นรูปเล็ก ๆ ส่งไปแสดงบนจอที่ต่อ Wi-Fi บ้านหรือออฟฟิศเดียวกัน และอัปเดตให้เองทุกไม่กี่นาที
